@@ -1,2 +1,2 @@
-# Fall 2023 Quantum Machine Learning
-Quantum Machine Learning Class at CMU. 2023
+# Fall 2024 Quantum Machine Learning
+Quantum Machine Learning Class at CMU. 2024

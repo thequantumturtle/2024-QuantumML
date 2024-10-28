@@ -13,7 +13,7 @@ Mondays and Wednesdays (5:00pm to 6:20pm @ 3SC 265)
 [Daniel Justice](https://thequantumturtle.github.io/) & [Rita Singh](http://mlsp.cs.cmu.edu/people/rsingh/index.html)
 
 ## Location
-Class room is at 3SC 265. The class is in person but will also be streamed via [Zoom](https://cmu.zoom.us/j/96065480859?pwd=Y0pteXZ2and2WHNkRHljSFBieUpFQT09). I encourage you to come to class and use Zoom as a fallback option.
+Class room is at 3SC 265. The class is in person but will also be streamed via [Zoom](https://cmu.zoom.us/j/91849452448?pwd=GK9BLOYa6HHOLz0p6T6ae6uaEF9FFo.1). I encourage you to come to class and use Zoom as a fallback option.
 
 
 ## Course Goals
@@ -41,20 +41,20 @@ This course is a Mini-Course (Half Semester) taking place in the second half of 
 
 ## Schedule
 
-[**Day 1**](syllabus/1-Introduction.html) (10/23): Introduction  
-[**Day 2**](syllabus/2-ML-Landscape.html) (10/25): The Landscape of ML & SVM  
-[**Day 3**](syllabus/3-Building-NNs.html) (10/30): Building a Neural Network  
-[**Day 4**](syllabus/4-Classification.html) (11/1): Binary and Multiclass Classification  
-[**Day 5**](syllabus/5-Pennylane.html) (11/6): Intro to Pennylane  
-[**Day 6**](syllabus/6-QSVM.html) (11/8): QSVM  
-[**Day 7**](syllabus/7-QNN.html) (11/13): QNN  
-[**Day 8**](syllabus/8-Guest.html) (11/15): Guest Lecture  
-[**Day 9**](syllabus/9-GANs.html) (11/20): GANs  
-[**Day 10**](syllabus/10-Thanksgiving.html) (11/22): **Thanksgiving**  
-[**Day 11**](syllabus/11-QGANs.html) (11/27): Q-GANs  
-[**Day 12**](syllabus/12-K-Means.html) (11/29): K-Means  
-[**Day 13**](syllabus/13-Q-Means.html) (12/4): Q-Means  
-[**Day 14**](syllabus/14-Decoder.html) (12/6): Quantum Decoders  
+**Day 1** (10/21): Introduction  
+**Day 2** (10/23): Introduction to Pennylane  
+**Day 3** (10/28): Foundational Concepts of ML & QC  
+**Day 4** (10/30): QC Algos Relevant for ML - Basics  
+**Day 5** (11/4): Data Encoding  
+**Day 6** (11/6): SVMs and NNs - Classical Focus  
+**Day 7** (11/11): Hybrid Quantum-Classical Algos for ML  
+**Day 8** (11/13): QML for Optimization and Sampling Problems  
+**Day 9** (11/18): QSVMS Practical  
+**Day 10** (11/20): QNNs Practical  
+**Day 11** (11/25): Guest Lecture  
+**Day 12** (11/27): **Thanksgiving**  
+**Day 13** (12/2): Q-Means  
+**Day 14** (12/4): Quantum Decoders  
 
 
-*Schedule with assignments, readings, etc. can be found [here](schedule.html)*
+<!-- *Schedule with assignments, readings, etc. can be found [here](schedule.html)* -->

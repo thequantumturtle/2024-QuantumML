@@ -1,0 +1,50 @@
+I"ˆ<h1>Quantum Machine Learning</h1>
+
+<p><img src="/2024-Fall-QuantumML/style/books_header.jpg" width="100%" /></p>
+
+<p>Mondays and Wednesdays (5:00pm to 6:20pm @ 3SC 265)</p>
+<h3 id="instructors">Instructors:</h3>
+<p><a href="https://thequantumturtle.github.io/">Daniel Justice</a> &amp; <a href="http://mlsp.cs.cmu.edu/people/rsingh/index.html">Rita Singh</a></p>
+
+<h2 id="location">Location</h2>
+<p>Class room is at 3SC 265. The class is in person but will also be streamed via <a href="https://cmu.zoom.us/j/96065480859?pwd=Y0pteXZ2and2WHNkRHljSFBieUpFQT09">Zoom</a>. I encourage you to come to class and use Zoom as a fallback option.</p>
+
+<h2 id="course-goals">Course Goals</h2>
+<p>Students having already gain familiarity with current universal gate quantum computing tools and technology will expand their knowledge to using Quantum Computing for Machine Learning algorithms.</p>
+
+<h2 id="grading">Grading</h2>
+<p>90% Homeworks/Quizzes, 10% Participation.</p>
+
+<h2 id="quizzes">Quizzes</h2>
+<p>Each week a quiz will be given. The worst one will not be counted.</p>
+
+<h2 id="prerequisites">Prerequisites</h2>
+<p>Python, Jupyter Notebooks, Linear Algebra</p>
+
+<p>Students will <strong>not</strong> need an understanding of quantum mechanics.</p>
+
+<p><strong>Note</strong>: The syllabus is subject to occasional change. This is especially the case in the latter half of the semester once your professors have become comfortable with the groupâ€™s overall skill level. Adequate notice will be given.</p>
+
+<h2 id="basic-course-structure">Basic course structure</h2>
+
+<p>This course is a Mini-Course (Half Semester) taking place in the second half of the Fall semester. Due to this being a mini, we will do our best to skirt into a new topic each and every day.</p>
+
+<h2 id="schedule">Schedule</h2>
+
+<p><strong>Day 1</strong> (10/21): Introduction<br />
+<strong>Day 2</strong> (10/23): Introduction to Pennylane<br />
+<strong>Day 3</strong> (10/28): Foundational Concepts of ML &amp; QC<br />
+<strong>Day 4</strong> (10/30): QC Algos Relevant for ML - Basics<br />
+<strong>Day 5</strong> (11/4): Data Encoding<br />
+<strong>Day 6</strong> (11/6): SVMs and NNs - Classical Focus<br />
+<strong>Day 7</strong> (11/11): Hybrid Quantum-Classical Algos for ML<br />
+<strong>Day 8</strong>(syllabus/8-Guest.html) (11/13): QML for Optimization and Sampling Problems<br />
+<strong>Day 9</strong>(syllabus/9-GANs.html) (11/18): QSVMS Practical<br />
+<strong>Day 10</strong>(syllabus/10-Thanksgiving.html) (11/20): QNNs Practical<br />
+<strong>Day 11</strong>(syllabus/11-QGANs.html) (11/25): Guest Lecture<br />
+<strong>Day 12</strong>(syllabus/12-K-Means.html) (11/27): <strong>Thanksgiving</strong><br />
+<strong>Day 13</strong>(syllabus/13-Q-Means.html) (12/2): Q-Means<br />
+<strong>Day 14</strong>(syllabus/14-Decoder.html) (12/4): Quantum Decoders</p>
+
+<p><em>Schedule with assignments, readings, etc. can be found <a href="schedule.html">here</a></em></p>
+:ET

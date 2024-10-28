@@ -1,0 +1,57 @@
+I"<p>Everything a student needs to know to succeed.</p>
+
+<h2 id="grade-distribution">Grade Distribution</h2>
+
+<table>
+	<tbody>	
+		<tr>
+			<td class="icon" style="color: red">💻</td>
+			<td><b>Homework/Quizzes</b><br />90%</td>
+		</tr>
+		<tr>
+			<td class="icon" style="color: orange">📑</td>
+			<td><b>Participation</b><br />10%</td>
+		</tr>
+	</tbody>
+</table>
+
+<h3 id="books">Books</h3>
+
+<h4 id="main-book">Main Book:</h4>
+<ul>
+  <li><a href="https://www.packtpub.com/product/a-practical-guide-to-quantum-machine-learning-and-quantum-optimization/9781804613832">Practical QML</a> <br />
+  We will be working mostly out of this book.</li>
+</ul>
+
+<h4 id="suggested-reading">Suggested Reading:</h4>
+<ul>
+  <li><a href="https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683">Octopus Book</a></li>
+</ul>
+
+<h4 id="extra-reading">Extra Reading:</h4>
+<ul>
+  <li><a href="https://link.springer.com/book/10.1007/978-3-030-83098-4">ML w/ QC</a></li>
+  <li><a href="http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf">Gentle Book</a>  <br />
+  A very computer science take on quantum computers. A good read if you are hoping to do research.</li>
+</ul>
+
+<h3 id="attendance">Attendance</h3>
+
+<p>Show up to class. It will help you succeed.</p>
+
+<h2 id="grading">Grading</h2>
+
+<p>There’s a maximum score: 100 points.</p>
+
+<ul>
+  <li>100—90: A</li>
+  <li>89—80: B</li>
+  <li>79—70: C</li>
+  <li>69—60: D</li>
+  <li>less than 60: F</li>
+</ul>
+
+<h2 id="what-to-do-in-case-of-illness-etc">What to do in case of illness etc.</h2>
+
+<p>If there is an emergency of an kind preventing you from attending please send an email.</p>
+:ET

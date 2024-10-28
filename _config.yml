@@ -4,10 +4,10 @@
 courseName: "Quantum Machine Learning"
 
 # small title that is at the top of every page
-subtitle: "17-620 — Quantum Machine Learning — Fall Semester 2023"
+subtitle: "17-620 — Quantum Machine Learning — Fall Semester 2024"
 
 # baseurl is the same as the name of the repository
-baseurl: /2023-Fall-QuantumML
+baseurl: /2024-Fall-QuantumML
 # url where the required reading is available to download
 docsUrl: "https://www.amazon.com/_/dp/1492039683?tag=oreilly20-20" 
 
@@ -25,3 +25,6 @@ defaults:
       type: syllabus
     values:
       layout: unit
+
+logging:
+  level: info

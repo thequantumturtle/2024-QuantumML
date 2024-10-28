@@ -28,6 +28,9 @@ Everything a student needs to know to succeed.
 - [Practical QML](https://www.packtpub.com/product/a-practical-guide-to-quantum-machine-learning-and-quantum-optimization/9781804613832)   
     We will be working mostly out of this book.
 
+#### Suggested Reading:
+- [Octopus Book](https://www.amazon.com/Programming-Quantum-Computers-Essential-Algorithms/dp/1492039683)  
+
 #### Extra Reading:
 - [ML w/ QC](https://link.springer.com/book/10.1007/978-3-030-83098-4)    
 - [Gentle Book](http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf)    

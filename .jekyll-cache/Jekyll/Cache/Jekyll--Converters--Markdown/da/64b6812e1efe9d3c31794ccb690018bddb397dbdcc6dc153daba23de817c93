@@ -1,0 +1,20 @@
+I"<<h2 id="before-class">Before Class</h2>
+
+<h3 id="books">Books</h3>
+
+<h4 id="main-book">Main Book:</h4>
+<ul>
+  <li><a href="https://www.amazon.com/Practical-Quantum-Machine-Learning-Optimization/dp/1804613835">Practical QML</a> <br />
+  We will be working mostly out of this book.</li>
+</ul>
+
+<h4 id="extra-reading">Extra Reading:</h4>
+<ul>
+  <li><a href="https://link.springer.com/book/10.1007/978-3-030-83098-4">ML w/ QC</a></li>
+  <li><a href="http://mmrc.amss.cas.cn/tlb/201702/W020170224608150244118.pdf">Gentle Book</a>  <br />
+  A very computer science take on quantum computers. A good read if you are hoping to do research.</li>
+</ul>
+
+<h3 id="summary">Summary</h3>
+<p>We will be going over class requirements and expectations. Then we will give a frame work for where quantum computers can aid in machine learning.</p>
+:ET
